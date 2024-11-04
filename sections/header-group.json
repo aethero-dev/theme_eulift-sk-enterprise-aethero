@@ -106,11 +106,40 @@
             "badge3_link": "",
             "badge3_text": ""
           }
+        },
+        "pills_iPtche": {
+          "type": "pills",
+          "settings": {
+            "title": "KOMLETNÝ SORTIMENT",
+            "collection_images": "large",
+            "collection_use_product_image": false,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 20,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center"
+          }
         }
       },
       "block_order": [
         "d192451c-7af0-4c7a-be8e-810ba9ce7a50",
-        "f346e2e7-180f-43b2-a640-6e866ab9741f"
+        "f346e2e7-180f-43b2-a640-6e866ab9741f",
+        "pills_iPtche"
       ],
       "settings": {
         "enable_sticky": true,
